@@ -1,0 +1,8 @@
+print("welcom to the student data organizer\n")
+print("select an option")
+print("1. add student")
+print("2. display all student")
+print("3. update student information")
+print("4. delete student")
+print("5. display subject offered")
+print("6. exit")
